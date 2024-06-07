@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\WS\WS05\WS05\bin\Debug\Conecta.mdf
+C:\Users\Aluno\Desktop\WS\WS05\WS05\bin\Debug\Conecta_log.ldf
+C:\Users\Aluno\Desktop\WS\WS05\WS05\bin\Debug\DbPessoa.mdf
+C:\Users\Aluno\Desktop\WS\WS05\WS05\bin\Debug\DbPessoa_log.ldf
+C:\Users\Aluno\Desktop\WS\WS05\WS05\bin\Debug\WS05.exe.config
+C:\Users\Aluno\Desktop\WS\WS05\WS05\bin\Debug\WS05.exe
+C:\Users\Aluno\Desktop\WS\WS05\WS05\bin\Debug\WS05.pdb
+C:\Users\Aluno\Desktop\WS\WS05\WS05\obj\Debug\WS05.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\WS\WS05\WS05\obj\Debug\WS05.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\WS\WS05\WS05\obj\Debug\WS05.FrmPrincipal.resources
+C:\Users\Aluno\Desktop\WS\WS05\WS05\obj\Debug\WS05.Properties.Resources.resources
+C:\Users\Aluno\Desktop\WS\WS05\WS05\obj\Debug\WS05.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\WS\WS05\WS05\obj\Debug\WS05.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\WS\WS05\WS05\obj\Debug\WS05.exe
+C:\Users\Aluno\Desktop\WS\WS05\WS05\obj\Debug\WS05.pdb
